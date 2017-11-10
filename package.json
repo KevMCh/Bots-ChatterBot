@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/KevMCh/OperBot/issues"
   },
-  "homepage": "https://github.com/KevMCh/OperBot#readme"
+  "homepage": "https://github.com/KevMCh/OperBot#readme",
+  "dependencies": {
+    "apiai": "^4.0.3"
+  }
 }
